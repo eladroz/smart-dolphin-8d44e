@@ -1,4 +1,4 @@
-# Stackbit Nextjs V2
+# Stackbit Nextjs V2 
 
 The NextJs core starter for Stackbit.
 
